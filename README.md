@@ -63,7 +63,7 @@
 </tr>
 <tr>
 <td align="center" width="100">
-<img src="https://avatars.githubusercontent.com/u/117592510?s=200&v=4" width="48" height="48" alt="Langfuse" />
+<img src="https://raw.githubusercontent.com/langfuse/langfuse/main/web/public/icon.svg" width="48" height="48" alt="Langfuse" />
 <br /><b>Langfuse</b>
 </td>
 <td align="center" width="100">
