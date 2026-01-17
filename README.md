@@ -61,6 +61,28 @@
 <br /><b>Docker</b>
 </td>
 </tr>
+<tr>
+<td align="center" width="100">
+<img src="https://langfuse.com/langfuse_logo_white.svg" width="48" height="48" alt="Langfuse" />
+<br /><b>Langfuse</b>
+</td>
+<td align="center" width="100">
+<img src="https://mintlify.s3.us-west-1.amazonaws.com/mcp/logo/light.svg" width="48" height="48" alt="MCP" />
+<br /><b>MCP</b>
+</td>
+<td align="center" width="100">
+<img src="https://avatars.githubusercontent.com/u/128686189?s=200&v=4" width="48" height="48" alt="Chainlit" />
+<br /><b>Chainlit</b>
+</td>
+<td align="center" width="100">
+<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="48" height="48" alt="Pandas" />
+<br /><b>Pandas</b>
+</td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="48" height="48" alt="SQLAlchemy" />
+<br /><b>SQLAlchemy</b>
+</td>
+</tr>
 </table>
 
 </div>
