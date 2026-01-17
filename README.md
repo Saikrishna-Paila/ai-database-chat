@@ -89,6 +89,40 @@
 
 ---
 
+## Screenshots
+
+<div align="center">
+
+### Chat Interface
+*Natural language query interface powered by Chainlit*
+
+<img src="images/UI.png" alt="Chat Interface" width="90%" />
+
+<br /><br />
+
+### PostgreSQL Query Results
+*Text-to-SQL generation with automatic result formatting*
+
+<img src="images/postgres1.png" alt="PostgreSQL Query 1" width="90%" /><img src="images/postgres2.png" alt="PostgreSQL Query 2" width="90%" />
+
+<br /><br />
+
+### MongoDB Query Results
+*Text-to-MongoDB with find/aggregate pipeline generation*
+
+<img src="images/mongodb.png" alt="MongoDB Query" width="90%" />
+
+<br /><br />
+
+### Langfuse Observability Dashboard
+*Full LLM tracing and monitoring with Langfuse v3*
+
+<img src="images/langfuse_dashboard.png" alt="Langfuse Dashboard" width="90%" />
+
+</div>
+
+---
+
 ## Overview
 
 An intelligent natural language interface for querying databases. Ask questions in plain English and get instant SQL or MongoDB queries with results. Supports both relational and document databases with smart keyword-based routing.
