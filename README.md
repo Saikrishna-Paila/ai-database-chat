@@ -63,11 +63,11 @@
 </tr>
 <tr>
 <td align="center" width="100">
-<img src="https://langfuse.com/langfuse_logo_white.svg" width="48" height="48" alt="Langfuse" />
+<img src="https://avatars.githubusercontent.com/u/117592510?s=200&v=4" width="48" height="48" alt="Langfuse" />
 <br /><b>Langfuse</b>
 </td>
 <td align="center" width="100">
-<img src="https://mintlify.s3.us-west-1.amazonaws.com/mcp/logo/light.svg" width="48" height="48" alt="MCP" />
+<img src="https://avatars.githubusercontent.com/u/182288589?s=200&v=4" width="48" height="48" alt="MCP" />
 <br /><b>MCP</b>
 </td>
 <td align="center" width="100">
@@ -75,11 +75,11 @@
 <br /><b>Chainlit</b>
 </td>
 <td align="center" width="100">
-<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="48" height="48" alt="Pandas" />
+<img src="https://avatars.githubusercontent.com/u/21206976?s=200&v=4" width="48" height="48" alt="Pandas" />
 <br /><b>Pandas</b>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="48" height="48" alt="SQLAlchemy" />
+<img src="https://avatars.githubusercontent.com/u/6043126?s=200&v=4" width="48" height="48" alt="SQLAlchemy" />
 <br /><b>SQLAlchemy</b>
 </td>
 </tr>
