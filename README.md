@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/>
   <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/>
   <img src="https://img.shields.io/badge/Project-6%20of%2012-blue.svg?style=flat-square" alt="Project 6"/>
+  <img src="https://komarev.com/ghpvc/?username=Saikrishna-Paila&repo=ai-database-chat&color=6C63FF&style=flat-square&label=Views" alt="Views"/>
 </p>
 
 <br />
